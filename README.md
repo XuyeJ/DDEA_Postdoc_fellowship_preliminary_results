@@ -56,6 +56,4 @@ Over-representation analysis (ORA) of genes mapped from **all lead SNPs per trai
 
 **Sharing definitions.** A SNP is "shared" if it is a lead SNP in more than one trait. A pathway is "shared" if it reaches FDR < 0.05 in more than one trait. Note that sharing defined by significance thresholds is conservative: pathways just below the threshold in one trait are classified as trait-specific even if the true enrichment is similar across traits.
 
-## Contact
 
-For questions about these tables, please open an issue in this repository or contact the corresponding author.
