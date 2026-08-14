@@ -1,6 +1,7 @@
 # Supplementary Tables: Cross-Trait Genetic Architecture of Fat-Free Mass
 
-This repository contains the full supplementary tables for the cross-trait GWAS analysis of four fat-free mass (FFM) traits: **Arm FFM**, **Trunk FFM**, **Leg FFM**, and **Whole-body FFM**.
+This repository contains the full supplementary tables for the cross-trait GWAS analysis of four fat-free mass (FFM) traits: **Arm FFM(right)**, **Trunk FFM**, **Leg FFM(right)**, and **Whole-body FFM**.
+summarised FFM GWAS state are extracted from Fine-scale population structure and widespread conservation of genetic effect sizes between human groups across traits. 
 
 ## Files
 
